@@ -1,0 +1,2 @@
+           Time          COM_0          COM_1          COM_2         QUAT_0         QUAT_1         QUAT_2         QUAT_3
+              0              0              0              1              0              0              0
